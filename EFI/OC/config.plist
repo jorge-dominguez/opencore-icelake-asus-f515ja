@@ -1262,7 +1262,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>M0000000000000001</string>
+			<string>FVF031130CD0000FB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1274,11 +1274,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>MacBookAir9,1</string>
 			<key>SystemSerialNumber</key>
-			<string>W00000000001</string>
+			<string>FVFD5MYRMNHP</string>
 			<key>SystemUUID</key>
-			<string>00000000-0000-0000-0000-000000000000</string>
+			<string>485A644E-9F5C-4981-92C2-19D5E85E2A38</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
